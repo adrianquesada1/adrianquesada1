@@ -21,7 +21,7 @@ Repositorio centralizado de credenciales, certificaciones técnicas y titulacion
 | Titulación | Centro Educativo | Calificación / Nivel | Período | Código de Verificación / Soporte |
 | :--- | :--- | :--- | :--- | :--- |
 | **Máster de FP en Inteligencia Artificial y Big Data** *(Curso de Especialización de Grado Superior, IABD)* | IES Marcos Zaragoza | **9.20** / Nivel 5 EQF-MEC | 2025 - 2026 | [Acceso a Documentación](https://drive.google.com/file/d/15BKD4bzDwmO9w4E4zSF_iHgkQ-jL6_HR/view?usp=drive_link) |
-| **Técnico Superior en Administración de Sistemas Informáticos en Red** *(Grado Superior, ASIR)* | IES Marcos Zaragoza | **8.53** / Nivel 5 EQF-MEC | 2023 - 2025 | [Acceso a Documentación]([https://google.com](https://drive.google.com/file/d/1ReCIpXAjTSbR-UblzdmFbsmK_aYRH5AA/view?usp=drive_link)) |
+| **Técnico Superior en Administración de Sistemas Informáticos en Red** *(Grado Superior, ASIR)* | IES Marcos Zaragoza | **8.53** / Nivel 5 EQF-MEC | 2023 - 2025 | [Acceso a Documentación](https://drive.google.com/file/d/1ReCIpXAjTSbR-UblzdmFbsmK_aYRH5AA/view?usp=drive_link) |
 | **Bachillerato de Ciencias** | IES Malladeta | **8.26** / Nivel 4 EQF-MEC | 2021 - 2023 | [Acceso a Documentación](https://drive.google.com/file/d/14ZHZx1KSmPVahJ6lnj4ot83jnJQYBMaO/view?usp=drive_link) |
 
 ---
