@@ -8,7 +8,7 @@ Repositorio centralizado de credenciales, certificaciones técnicas y titulacion
 
 | Certificado / Licencia | Institución Emisora | Año | Credencial |
 | :--- | :--- | :--- | :--- |
-| **IBM Data Engineering Professional Certificate** | IBM Skills Network | 2026 | [Verificar Credencial](https://google.com) |
+| **IBM Data Engineering Professional Certificate** | IBM Skills Network | 2026 | [Verificar Credencial]([https://google.com](https://drive.google.com/file/d/1n5aqltSRHne_I1OuQFFrn4st37y98A7c/view?usp=drive_link)) |
 | **Databricks Data Engineer Learning Plan** | Databricks Academy | 2026 | [Verificar Credencial](https://google.com) |
 | **ChatGPT Prompt Engineering for Developers** | DeepLearning.AI & OpenAI | 2026 | [Verificar Credencial](https://google.com) |
 | **Google AI Essentials Certificate** | Google Career Certificates | 2026 | [Verificar Credencial](https://google.com) |
