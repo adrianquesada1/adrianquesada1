@@ -12,6 +12,7 @@ Repositorio centralizado de credenciales, certificaciones técnicas y titulacion
 | **Databricks Data Engineer Learning Plan** | Databricks Academy | 2026 | [Verificar Credencial](https://drive.google.com/file/d/1hhiJxYan9eWofkiRL1-hLvZiy0Cs-HwJ/view?usp=drive_link) |
 | **ChatGPT Prompt Engineering for Developers** | DeepLearning.AI & OpenAI | 2026 | [Verificar Credencial](https://drive.google.com/file/d/1WjsZYAF_uU_rWuVC_Lf5b0FsoIZqg8ES/view?usp=drive_link) |
 | **Google AI Essentials Certificate** | Google Career Certificates | 2026 | [Verificar Credencial](https://drive.google.com/file/d/1Zd4wuqOEpUhmlc-KXVbDAy-muwcP5rTL/view?usp=drive_link) |
+| **Network Defense Course** | Cisco Networking Academy | 2026 | [Verificar Credencial](https://drive.google.com/file/d/18wW9jT-fFH9CJuR2ldsoXmhNXA9wPsvC/view?usp=drive_link) |
 | **Cambridge B2 First (FCE)** | Cambridge University Press & Assessment | 2025 | [Verificar Credencial](https://drive.google.com/file/d/1b2SkON9YbET76TALCRvQrNHzEBLDiRI8/view?usp=drive_link) |
 
 ---
