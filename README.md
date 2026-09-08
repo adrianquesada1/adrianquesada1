@@ -4,6 +4,16 @@ Repositorio centralizado de credenciales, certificaciones técnicas y titulacion
 
 ---
 
+## 🎓 Titulaciones Académicas Oficiales
+
+| Titulación | Centro Educativo | Calificación / Nivel | Período | Código de Verificación / Soporte |
+| :--- | :--- | :--- | :--- | :--- |
+| **Máster de FP en Inteligencia Artificial y Big Data** *(Curso de Especialización de Grado Superior, IABD)* | IES Marcos Zaragoza | **9.20** / Nivel 5 EQF-MEC | 2025 - 2026 | [Acceso a Documentación](https://drive.google.com/file/d/1cOy4SyjnkrqR74gEluzUsCy-MMq41Aun/view?usp=drivesdk) |
+| **Técnico Superior en Administración de Sistemas Informáticos en Red** *(Grado Superior, ASIR)* | IES Marcos Zaragoza | **8.53** / Nivel 5 EQF-MEC | 2023 - 2025 | [Acceso a Documentación](https://drive.google.com/file/d/1ReCIpXAjTSbR-UblzdmFbsmK_aYRH5AA/view?usp=drive_link) |
+| **Bachillerato de Ciencias** | IES Malladeta | **8.26** / Nivel 4 EQF-MEC | 2021 - 2023 | [Acceso a Documentación](https://drive.google.com/file/d/14ZHZx1KSmPVahJ6lnj4ot83jnJQYBMaO/view?usp=drive_link) |
+
+---
+
 ## 📜 Certificaciones Técnicas y Formación Complementaria
 
 | Certificado / Licencia | Institución Emisora | Año | Credencial |
@@ -17,16 +27,6 @@ Repositorio centralizado de credenciales, certificaciones técnicas y titulacion
 | **AI Fluency: Framework & Foundations** | Anthropic & Claude Academy | 2026 | [Verificar Credencial](https://drive.google.com/file/d/1Slpy5dAoWozmEmBPbuKt3HJvLU_zvpvM/view?usp=drive_link) |
 | **AWS Cloud Practitioner Essentials** | AWS Skill Builder | 2026 | [Verificar Credencial](ENLACE) |
 | **Cambridge B2 First (FCE)** | Cambridge University Press & Assessment | 2025 | [Verificar Credencial](https://drive.google.com/file/d/1b2SkON9YbET76TALCRvQrNHzEBLDiRI8/view?usp=drive_link) |
-
----
-
-## 🎓 Titulaciones Académicas Oficiales
-
-| Titulación | Centro Educativo | Calificación / Nivel | Período | Código de Verificación / Soporte |
-| :--- | :--- | :--- | :--- | :--- |
-| **Máster de FP en Inteligencia Artificial y Big Data** *(Curso de Especialización de Grado Superior, IABD)* | IES Marcos Zaragoza | **9.20** / Nivel 5 EQF-MEC | 2025 - 2026 | [Acceso a Documentación](https://drive.google.com/file/d/1cOy4SyjnkrqR74gEluzUsCy-MMq41Aun/view?usp=drivesdk) |
-| **Técnico Superior en Administración de Sistemas Informáticos en Red** *(Grado Superior, ASIR)* | IES Marcos Zaragoza | **8.53** / Nivel 5 EQF-MEC | 2023 - 2025 | [Acceso a Documentación](https://drive.google.com/file/d/1ReCIpXAjTSbR-UblzdmFbsmK_aYRH5AA/view?usp=drive_link) |
-| **Bachillerato de Ciencias** | IES Malladeta | **8.26** / Nivel 4 EQF-MEC | 2021 - 2023 | [Acceso a Documentación](https://drive.google.com/file/d/14ZHZx1KSmPVahJ6lnj4ot83jnJQYBMaO/view?usp=drive_link) |
 
 ---
 
